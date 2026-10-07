@@ -33,7 +33,7 @@ If all requirements are satisfied:
 Valid: Password meets all basic requirements.
 ```
 
-## Technologies Used
+## Technologies Used:
 - Python
 - String methods
 - `for` loop
